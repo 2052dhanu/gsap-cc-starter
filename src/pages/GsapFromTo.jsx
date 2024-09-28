@@ -9,7 +9,8 @@ const GsapFromTo = () => {
         x : 0,
     }, 
   {
-    x:100 ,
+    x:500 ,
+    y: 200 ,
     scale : 2,
     rotation :360 ,
     borderRadius:'100%' ,
