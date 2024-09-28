@@ -1,10 +1,4 @@
-import {useGSAP} from "@gsap/react";
-import { wrapYoyo } from "gsap";
-
 const GsapTo = () => {
-  useGSAP(() => {
-    ('#blue-box'), {x:250 , rotation : 360 , duration : 2 , repeat : -1 , wrapYoyo:true}
-  },[])
   // TODO: Implement the gsap.to() method
 
   return (
